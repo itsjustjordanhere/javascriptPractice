@@ -98,5 +98,5 @@ console.log(`Now your sorted array is ${array.sort()}`)
 let today = new Date()
 let todayDate = today.getDate()
 let year = today.getFullYear()
-let month = today.getMonth()
+let month = today.getMonth() + 1
 console.log(`your date is ${todayDate}/${month}/${year}`)
