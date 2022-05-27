@@ -94,3 +94,9 @@ console.log(`Arrady Index 0 is ${array[0]}`) // we get the first item in the arr
 // Sort the array
 console.log(`Now your sorted array is ${array.sort()}`)
 
+//  The date object
+let today = new Date()
+let todayDate = today.getDate()
+let year = today.getFullYear()
+let month = today.getMonth()
+console.log(`your date is ${todayDate}/${month}/${year}`)
