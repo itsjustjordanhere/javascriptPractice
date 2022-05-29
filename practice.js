@@ -8,6 +8,10 @@ let amount = 100;
 var price = 50;
 sold = 8;
 console.log(currency, amount, price, sold);
+/* 
+Side note: variable keyword (let) | variable name (amount) | assignment operator (=)
+*/
+
 
 // Functions
 function number() {
@@ -100,3 +104,10 @@ let todayDate = today.getDate()
 let year = today.getFullYear()
 let month = today.getMonth() + 1
 console.log(`your date is ${todayDate}/${month}/${year}`)
+
+// Data Types
+let dataTypeNumber = 70 // Numric data type
+let dataTypeString = 'number' // string data type
+let dataTypeBoolean = true // boolean data type
+
+
