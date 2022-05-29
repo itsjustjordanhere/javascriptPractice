@@ -106,7 +106,7 @@ let month = today.getMonth() + 1
 console.log(`your date is ${todayDate}/${month}/${year}`)
 
 // Data Types
-let dataTypeNumber = 70 // Numric data type
+let dataTypeNumber = 70 // Numeric data type
 let dataTypeString = 'number' // string data type
 let dataTypeBoolean = true // boolean data type
 
