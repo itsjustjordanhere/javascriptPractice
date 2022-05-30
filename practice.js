@@ -9,7 +9,7 @@ var price = 50;
 sold = 8;
 console.log(currency, amount, price, sold);
 /* 
-Side note: variable keyword (let) | variable name (amount) | assignment operator (=)
+Side note: variable keyword (let) | variable name (amount) | assignment operator (=) | variable value (100)
 */
 
 
